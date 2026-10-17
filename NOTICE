@@ -1,0 +1,19 @@
+IITB Resume Builder
+Copyright (c) 2026 Kartikya Saini (IIT Bombay)
+https://github.com/kartikya2207/iitb-resume-builder
+https://kartikya2207.github.io/iitb-resume-builder/
+
+The idea, design and code of this project are the original work of
+Kartikya Saini. This notice, and the attribution lines at the top of each
+source file and each published JavaScript file, must be kept in any copy or
+derived work.
+
+This is a student project. It is not an official IIT Bombay website and is
+not endorsed by IIT Bombay.
+
+Campus photos: "Main building in IIT Bombay" by Shishirdasika (CC BY-SA 4.0)
+and "IITBConvocationHall" by Arne Hückelheim (CC BY-SA 3.0), Wikimedia Commons.
+The IIT Bombay emblem (web/public/iitb/) belongs to IIT Bombay. It is included
+only inside students' own off-campus resumes, as the institute's template does,
+and is not used to brand this site.
+Latin Modern fonts: GUST Font License. Inter Tight: SIL Open Font License.
