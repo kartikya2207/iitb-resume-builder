@@ -1,0 +1,22 @@
+Copyright (c) 2026 Kartikya Saini. All rights reserved.
+
+IITB Resume Builder, including its idea, design, source code, line-fit
+engine, calibration data, documentation and website, is the original work
+of Kartikya Saini (IIT Bombay).
+
+No permission is granted to copy, modify, publish, distribute, sublicense,
+host, or sell this software or any substantial part of it, or to build a
+derived work from it, without prior written permission from the author.
+
+Students may use the hosted website, https://kartikya2207.github.io/iitb-resume-builder/,
+free of charge to make their own resumes. Resumes and .tex files they make
+with it belong to them.
+
+Earlier copies of this project that were published under the MIT licence
+remain under that licence only for those earlier copies.
+
+Third-party components keep their own licences: Latin Modern fonts (GUST
+Font License), campus photos (CC BY-SA, see NOTICE), and the npm packages
+listed in web/package.json.
+
+Contact: https://github.com/kartikya2207
